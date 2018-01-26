@@ -9,7 +9,7 @@
     android:paddingLeft="16dp"
     android:paddingRight="16dp"
     android:paddingTop="16dp"
-    tools:context="com.alexthayn.tipcalculatorv0.MainActivity">
+    tools:context="com.alexthayn.tipcalculatorv1.MainActivity">
 
     <TextView
         android:id="@+id/label_bill"

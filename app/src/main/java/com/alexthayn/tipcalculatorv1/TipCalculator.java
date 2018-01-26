@@ -1,4 +1,4 @@
-package com.alexthayn.tipcalculatorv0;
+package com.alexthayn.tipcalculatorv1;
 
 /**
  * Created by Alex Thayn on 1/23/2018.

@@ -1,4 +1,4 @@
-package com.alexthayn.tipcalculatorv0;
+package com.alexthayn.tipcalculatorv1;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

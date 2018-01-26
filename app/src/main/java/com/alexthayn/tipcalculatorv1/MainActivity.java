@@ -1,4 +1,4 @@
-package com.alexthayn.tipcalculatorv0;
+package com.alexthayn.tipcalculatorv1;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
